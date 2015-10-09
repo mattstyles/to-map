@@ -1,3 +1,6 @@
+[![npm](https://img.shields.io/npm/v/to-map.svg)](https://www.npmjs.com/package/to-map)
+[![Build Status](https://travis-ci.org/mattstyles/to-map.svg?branch=master)](https://travis-ci.org/mattstyles/to-map) 
+
 # to-map
 
 > Converts a regular object into a map
