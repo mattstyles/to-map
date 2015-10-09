@@ -1,6 +1,6 @@
 {
   "name": "to-map",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Converts a regular object into a map",
   "main": "index.js",
   "scripts": {
